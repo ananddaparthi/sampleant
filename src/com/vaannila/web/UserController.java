@@ -7,7 +7,7 @@ import com.vaannila.domain.User;
 import com.vaannila.service.UserService;
 
 @SuppressWarnings("deprecation")
-public class UserController extends SimpleFormController {
+public class UserController extends SimpleFormController  {
 
 	private UserService userService;
 
